@@ -1,6 +1,7 @@
 # Covid 19 Dashboard Brasil
 
 - Este Projeto faz parte do curso Profissão Analista de Dados da EBAC.
+- O objetivo deste projeto é criar um dashboard para visualizar dados sobre casos de COVID-19 no Brasil, em 2021, e acompanhar sua evolução ao longo do tempo.
 
 ## Módulos e pacotes
 
